@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Skeleton component correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="w-full h-40 bg-gray-300 animate-pulse undefined"
+    data-testid="skeleton"
+  />
+</DocumentFragment>
+`;

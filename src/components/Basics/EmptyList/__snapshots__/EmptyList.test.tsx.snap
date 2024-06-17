@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders EmptyList correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="flex justify-center items-center h-full py-8"
+  >
+    <div
+      class="text-center text-gray-600 max-w-md mx-auto"
+    >
+      <svg
+        class="mx-auto h-12 w-12 text-gray-400"
+        fill="none"
+        stroke="currentColor"
+        viewBox="0 0 24 24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M9 20l-5.447-2.724A2 2 0 013 15.382V8.618a2 2 0 011.553-1.894L9 4m0 16l5.447 2.724A2 2 0 0015 21.382V14.618a2 2 0 00-1.553-1.894L9 10m0 16V10m0 0l5.447-2.724A2 2 0 0115 5.618V4.382a2 2 0 00-1.553-1.894L9 0"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+        />
+      </svg>
+      <p
+        class="mt-2"
+      >
+        No items found
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;

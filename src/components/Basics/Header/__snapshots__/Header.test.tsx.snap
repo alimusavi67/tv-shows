@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component matches the snapshot 1`] = `
+<DocumentFragment>
+  <header
+    class="p-4 bg-gray-800 text-white flex flex-col md:flex-row justify-between items-center"
+  >
+    <div
+      class="flex items-center text-2xl font-bold"
+    >
+      <a
+        href="/"
+      >
+        TV Shows DB
+      </a>
+    </div>
+    <div>
+      TimeZoneSelector Mock
+    </div>
+  </header>
+</DocumentFragment>
+`;

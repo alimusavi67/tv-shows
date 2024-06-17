@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DefaultImage component renders correctly with additional className 1`] = `
+<DocumentFragment>
+  <img
+    alt="Example Image"
+    class="w-full rounded h-40 object-cover transition-transform duration-300 group-hover:scale-105 custom-class"
+    data-testid="skeleton"
+    src="https://example.com/image.jpg"
+  />
+</DocumentFragment>
+`;
+
+exports[`DefaultImage component renders correctly with default image when src is undefined 1`] = `
+<DocumentFragment>
+  <img
+    alt="Example Image"
+    class="w-full rounded h-40 object-cover transition-transform duration-300 group-hover:scale-105 "
+    data-testid="skeleton"
+    src="/no-image.jpg"
+  />
+</DocumentFragment>
+`;
+
+exports[`DefaultImage component renders correctly with src and alt 1`] = `
+<DocumentFragment>
+  <img
+    alt="Example Image"
+    class="w-full rounded h-40 object-cover transition-transform duration-300 group-hover:scale-105 "
+    data-testid="skeleton"
+    src="https://example.com/image.jpg"
+  />
+</DocumentFragment>
+`;
