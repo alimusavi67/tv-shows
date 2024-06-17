@@ -70,6 +70,25 @@ To install Husky hooks, run:
 ```sh
 npx husky install
 ```
+
+## Docker Setup
+
+To run the project using Docker, follow these steps:
+
+1. **Build the Docker image**:
+
+    ```bash
+    docker-compose build
+    ```
+
+2. **Start the Docker container**:
+
+    ```bash
+    docker-compose up
+    ```
+
+This will start your application on [http://localhost:3000](http://localhost:3000).
+
 ### API Endpoints
 
 - **Fetch Shows**: `GET /shows?page={page}`
