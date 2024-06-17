@@ -39,8 +39,8 @@ TV Show Browser is a web application that allows users to search for TV shows, v
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/tv-show-browser.git
-    cd tv-show-browser
+    git clone https://github.com/alimusavi67/tv-shows.git
+    cd tv-show
     ```
 
 2. **Install Dependencies**:
